@@ -8,6 +8,6 @@
   "type": "tool",
   "author": {},
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "https://github.com/needle-mirror/com.unity.nuget.newtonsoft-json.git",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
   }
 }
