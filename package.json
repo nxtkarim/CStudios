@@ -6,8 +6,5 @@
   "unity": "2020.1",
   "source": "registry",
   "type": "tool",
-  "author": {},
-  "dependencies": {
-    "com.unity.nuget.newtonsoft-json": ""
-  }
+  "author": {}
 }
