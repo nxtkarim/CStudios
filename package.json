@@ -6,5 +6,8 @@
   "unity": "2020.1",
   "source": "registry",
   "type": "tool",
-  "author": {}
+  "author": {},
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "https://github.com/needle-mirror/com.unity.nuget.newtonsoft-json.git",
+  }
 }
