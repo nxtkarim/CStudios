@@ -1,0 +1,13 @@
+{
+  "name": "com.cstudios.com.cubusstudios.restapi",
+  "version": "1.0.0",
+  "displayName": "Cubus Studios",
+  "unityRelease": "33f1",
+  "unity": "2020.1",
+  "source": "registry",
+  "type": "tool",
+  "author": {},
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": ""
+  }
+}
